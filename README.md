@@ -29,3 +29,20 @@ Golang solution
    }
 
 </code></pre>
+#####BFS
+<pre><code>
+	/**
+	 * [BFS] 一般bfs有个灵活的集合需要用while 。go没有while 可以用for 解决
+	 * 在每一个点的遍历都要做一个状态保存譬如二叉树或是图的当前路径的状态。以便找出最优
+	 * 
+	 * 
+	 *
+	 */
+	func BFS(){
+		while(arr){
+			if statment //不符合条件跳出
+			//符合或是部分符合继续查找下去
+			……
+		}
+	}
+</code></pre>
